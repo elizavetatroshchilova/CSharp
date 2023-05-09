@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DZ6\Zadanie43\bin\Debug\net6.0\Zadanie43.exe
+C:\Users\user\Desktop\DZ6\Zadanie43\bin\Debug\net6.0\Zadanie43.deps.json
+C:\Users\user\Desktop\DZ6\Zadanie43\bin\Debug\net6.0\Zadanie43.runtimeconfig.json
+C:\Users\user\Desktop\DZ6\Zadanie43\bin\Debug\net6.0\Zadanie43.dll
+C:\Users\user\Desktop\DZ6\Zadanie43\bin\Debug\net6.0\Zadanie43.pdb
+C:\Users\user\Desktop\DZ6\Zadanie43\obj\Debug\net6.0\Zadanie43.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DZ6\Zadanie43\obj\Debug\net6.0\Zadanie43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DZ6\Zadanie43\obj\Debug\net6.0\Zadanie43.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DZ6\Zadanie43\obj\Debug\net6.0\Zadanie43.AssemblyInfo.cs
+C:\Users\user\Desktop\DZ6\Zadanie43\obj\Debug\net6.0\Zadanie43.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DZ6\Zadanie43\obj\Debug\net6.0\Zadanie43.dll
+C:\Users\user\Desktop\DZ6\Zadanie43\obj\Debug\net6.0\refint\Zadanie43.dll
+C:\Users\user\Desktop\DZ6\Zadanie43\obj\Debug\net6.0\Zadanie43.pdb
+C:\Users\user\Desktop\DZ6\Zadanie43\obj\Debug\net6.0\Zadanie43.genruntimeconfig.cache
+C:\Users\user\Desktop\DZ6\Zadanie43\obj\Debug\net6.0\ref\Zadanie43.dll
